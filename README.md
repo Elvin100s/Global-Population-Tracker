@@ -1,5 +1,6 @@
 # Global Population Tracker
 link :https://enchanting-alfajores-ffb17c.netlify.app/
+
 A real-time global population tracking application that provides detailed statistics and visualizations for countries worldwide. The application shows population trends, birth rates, death rates, and demographic changes across different nations.
 
 ![Global Population Tracker](https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1200)
